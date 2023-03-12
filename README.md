@@ -1,6 +1,6 @@
 # TelegramFileDownloaderBot
 
-A bot to download files from internet and send them to Telegram
+A telegram bot to download files from internet and send them in telegram.
 
 Send the bot the link that want to be downloaded. The bot send you the file.
 
